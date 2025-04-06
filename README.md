@@ -1293,6 +1293,9 @@ Useful React Native tooling.
 * [react-hook-hooker](https://github.com/fjcaetano/react-hook-hooker) - A nifty little HOC to add hooks to your React components.
 * [React Native Elements Playground 🚀](https://react-native-elements.js.org/) - Tinker with `react-native-elements` components in the web.
 * [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - An open source Localization CLI tool for finding i18n keys in project files.
+* [react-native-config-jsi](https://github.com/pioner92/react-native-config-jsi) - ⚡️ Fast JSI-based library to access .env variables natively with C++ performance.
+* [react-native-img-buffer-save](https://github.com/pioner92/react-native-img-buffer-save) - 💪 A native solution to save raw image buffers (ArrayBuffer / Uint8Array) directly to the device gallery using JSI for maximum performance
+* [react-native-xxhash](https://github.com/pioner92/react-native-xxhash) - 💪 A high-performance React Native library for generating xxHash hashes using C++ and JSI
 
 ## Seeds
 
