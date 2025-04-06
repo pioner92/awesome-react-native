@@ -666,6 +666,7 @@ Components and native modules.
 * [react-native-confirmation-code-field ★15](https://github.com/retyui/react-native-confirmation-code-field) - A React Native component to input confirmation code for both Android and IOS
 * [react-native-android-circles ★14](https://github.com/kwaak/react-native-android-circles) - A react native android package to show a circle progress view.
 * [react-native-anchor-point ★14](https://github.com/sueLan/react-native-anchor-point) - Make the fancy 3D transform easier in react native
+* [rn-fade-wrapper ★13](https://github.com/pioner92/rn-fade-wrapper) - ⚡️ Fade gradient wrapper for React Native scrollable views and overlays on iOS and Android..
 * [react-native-code-verification ★13](https://github.com/danchokobo/react-native-code-verification) - An UI module for user-side pincode verification.
 * [react-native-hijri-date-picker ★13](https://github.com/Codelabsys/react-native-hijri-date-picker-android) - Date Picker Dialog for Hijri calendar for android.
 * [react-native-imagewand ★13](https://github.com/NorthFoxz/react-native-imagewand) - image wand for react native
