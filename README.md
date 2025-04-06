@@ -477,6 +477,7 @@ Components and native modules.
 * [react-native-scaling-drawer ★148](https://github.com/melihberberolu/react-native-scaling-drawer) - React native scaling drawer.
 * [react-native-image-carousel ★148](https://github.com/anvilabs/react-native-image-carousel) - Image carousel with support for fullscreen mode, image swiping and pinch-to-zoom in fullscreen mode.
 * [react-native-offline-mode ★144](https://github.com/rauchy/react-native-offline-mode) - Swap your app with an offline version while there's no connectivity
+* [react-native-auto-skeleton ★143](https://github.com/pioner92/react-native-auto-skeleton) - 🚀 Automatically generates skeleton based on your existing UI layout without manual configuration.
 * [react-native-orientation-listener ★141](https://github.com/walmartreact/react-native-orientation-listener) - A react-native library for obtaining current device orientation
 * [react-native-multi-slider ★137](https://github.com/JackDanielsAndCode/react-native-multi-slider) - Pure JS slider component with multiple markers for React Native
 * [react-native-color-picker ★137](https://github.com/instea/react-native-color-picker) - React Native implementation of color picker for both Android and iOS.
